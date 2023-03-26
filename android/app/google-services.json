@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324532049706",
+    "project_id": "fir-miner-3e209",
+    "storage_bucket": "fir-miner-3e209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324532049706:android:5ff6b371dd7782dd043053",
+        "android_client_info": {
+          "package_name": "com.fbminer.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324532049706-233r6ro004etshja8gdguqqke183qg6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBte6Y3AEyko801NCQs8N6OKKNMDriBWYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324532049706-233r6ro004etshja8gdguqqke183qg6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
